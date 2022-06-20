@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    height: 100vh;
+    background: linear-gradient(to bottom right, #3333ff 0%, #9900ff 100%);
+  }
+  
+  .case {
+    display: flex;
+  }
+  
+  .section-1 {
+    color: #fff;
+    margin-top: 200px;
+    margin-left: 120px;
+  }
+  
+  h1 {
+    text-transform: uppercase;
+  }
+  
+  .image {
+    margin-top: 60px;
+    margin-left: 90px;
+    
+  }
+  
+  .ebenny {
+    border-radius: 150px;
+    height: 300px;
+  }
+  
+  .bottom {
+    margin-bottom: 0;
+    margin-left: 250px;
+  }
